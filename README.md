@@ -106,3 +106,7 @@ Arquiteturas orientadas e eventos utilizam tópicos agressivamente, pois a funci
 O tópico nativo da AWS chama-se SNS.
 
 No SNS, os tipos de inscrições disponíveis são, entre outros: endpoints HTTP, filas SQS e números para envio de SMS.
+
+# Mãos no Código
+
+_Arquivos JS no diretorio_
